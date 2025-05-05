@@ -6,8 +6,8 @@
 ## 🖥️ Screenshots
 | Feature | Preview |
 |---------|---------|
-| **Live Tracking** | ![Tracking Demo](https://via.placeholder.com/600x400?text=Map+with+Live+Location+Marker) |
-| **Multi-User View** | ![Multi-User Demo](https://via.placeholder.com/600x400?text=Map+with+Multiple+Markers) |
+| **Live Tracking** | ![Tracking Demo]() |
+
 
 ## 🔗 Live Link
 https://real-time-tracking-app-8ijl.onrender.com
