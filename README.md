@@ -3,14 +3,15 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://real-time-tracking-app-8ijl.onrender.com)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-## 🖥️ Screenshots
-
-([Screenshot 2025-05-05 205249](https://github.com/user-attachments/assets/e0fb5553-3950-4d7b-bba7-9e9d5dcdca2a)
-
 
 
 ## 🔗 Live Link
 https://real-time-tracking-app-8ijl.onrender.com
+
+## 🖥️ Screenshots
+
+([Screenshot 2025-05-05 205249](https://github.com/user-attachments/assets/e0fb5553-3950-4d7b-bba7-9e9d5dcdca2a))
+
 
 ## ✨ Features
 - 📍 Real-time GPS tracking using `navigator.geolocation`
