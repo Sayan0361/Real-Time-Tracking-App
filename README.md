@@ -1,13 +1,12 @@
-![image](https://github.com/user-attachments/assets/eb4e088c-82f4-46de-a3fc-f2673eacf080)# 🌍 Real-Time Location Tracker
+🌍 Real-Time Location Tracker
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://real-time-tracking-app-8ijl.onrender.com)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 🖥️ Screenshots
-| Feature | Preview |
-|---------|---------|
-| **Live Tracking** | ![Tracking Demo](![Screenshot 2025-05-05 205249](https://github.com/user-attachments/assets/e0fb5553-3950-4d7b-bba7-9e9d5dcdca2a)
-) |
+
+([Screenshot 2025-05-05 205249](https://github.com/user-attachments/assets/e0fb5553-3950-4d7b-bba7-9e9d5dcdca2a)
+
 
 
 ## 🔗 Live Link
