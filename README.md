@@ -25,8 +25,4 @@ https://real-time-tracking-app-8ijl.onrender.com
 | **Backend** | Node.js, Express, Socket.IO |
 | **DevOps** | Render (Hosting) |
 
-## 🚀 Quick Start
-```bash
-git clone https://github.com/your-repo.git
-npm install
-npm start
+
