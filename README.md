@@ -10,7 +10,8 @@ https://real-time-tracking-app-8ijl.onrender.com
 
 ## 🖥️ Screenshots
 
-([Screenshot 2025-05-05 205249](https://github.com/user-attachments/assets/e0fb5553-3950-4d7b-bba7-9e9d5dcdca2a))
+![Screenshot 2025-05-05 205249](https://github.com/user-attachments/assets/125ac807-9267-42a2-b86c-4aea6cb76bcf)
+
 
 
 ## ✨ Features
