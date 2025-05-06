@@ -23,7 +23,7 @@ https://real-time-tracking-app-8ijl.onrender.com
 ## 🛠 Tech Stack
 | Layer | Technologies |
 |-------|--------------|
-| **Frontend** | EJS, JavaScript, Leaflet/Mapbox |
+| **Frontend** | EJS, JavaScript, Leaflet |
 | **Backend** | Node.js, Express, Socket.IO |
 | **DevOps** | Render (Hosting) |
 
